@@ -21,6 +21,18 @@ org.jetbrains:annotations
 Copyright 2000-2021 JetBrains s.r.o.
 License:  Apache 2.0
 
+intellij-community:ideaUI
+Copyright (C) JetBrains s.r.o.
+License:  Apache 2.0
+
+com.intellij.java:IU-251.29188.11
+Copyright (C) JetBrains s.r.o.
+License: Apache 2.0
+
+com.intellij.modules.json:IU-251.29188.11
+Copyright (C) JetBrains s.r.o.
+License: Apache 2.0
+
 Google GSON
 Copyright 2008 Google Inc.
 License:  Apache 2.0
