@@ -77,7 +77,7 @@ Refer to the [Oracle NoSQL IntelliJ Plugin installation guide](https://docs.orac
   1. Deploy a Oracle NoSQL on-premises store [Install and configure Oracle NoSQL Database](https://docs.oracle.com/en/database/other-databases/nosql-database/25.3/admin/install-and-upgrade.html)
   2. Configure the [Oracle NoSQL Database Proxy](https://docs.oracle.com/en/database/other-databases/nosql-database/25.3/admin/proxy.html)
   3. [Connect to Oracle NoSQL Database On-premises server](https://docs.oracle.com/en/database/other-databases/nosql-database/25.3/plugins/connecting-oracle-nosqldatabase-intellij.html#GUID-DACD40CB-A57C-4336-8879-7252EFA645C2)
-  4. [Quick Start with KVLite in a Container] (https://docs.oracle.com/en/database/other-databases/nosql-database/25.3/kvlite/connect-database-using-oracle-nosql-intellij-plugin.html)
+  4. [Quick Start with KVLite in a Container](https://docs.oracle.com/en/database/other-databases/nosql-database/25.3/kvlite/connect-database-using-oracle-nosql-intellij-plugin.html)
 
 - Cloud    : [Connect to Oracle NoSQL Cloud Service](https://docs.oracle.com/en/cloud/paas/nosql-cloud/yooud/#GUID-8DB8A86D-5DEB-4E02-941B-9636A81650B3:~:text=Service%20or%20simulator.-,Connecting%20to%20Oracle%20NoSQL%20Database%20Cloud%20Service%20from%20IntelliJ,-Learn%20how%20to)
 
@@ -194,10 +194,10 @@ Once you connect to your database -
 
 - Examples of statements used in this object include:
 
-  - CREATE NAMESPACE mynamespace
-  - CREATE USER some_user IDENTIFIED BY password
-  - CREATE ROLE some_role
-  - GRANT ROLE some_role TO USER some_user
+  - `CREATE NAMESPACE mynamespace`
+  - `CREATE USER some_user IDENTIFIED BY password`
+  - `CREATE ROLE some_role`
+  - `GRANT ROLE some_role TO USER some_user`
 
 - This request can be executed by using the **Execute DDL** option present in the NoSQL tool window.
 
